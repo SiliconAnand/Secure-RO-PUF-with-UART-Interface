@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 module ro_puf_tb_multi;
-    parameter N = 2;
+    parameter N = 1;
     parameter CLK_PERIOD = 20;
     parameter COUNT_WINDOW = 1000;
 
